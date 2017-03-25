@@ -1,6 +1,6 @@
 # vuesearch2
 
-> A Vue.js project
+> vue-cli搭建的搜索页面
 
 ## Build Setup
 
